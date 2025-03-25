@@ -1,0 +1,7 @@
+streamlit
+openai
+SpeechRecognition
+pyttsx3
+sounddevice
+wavio
+pydub
