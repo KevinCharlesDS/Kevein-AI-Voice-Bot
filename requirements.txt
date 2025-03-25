@@ -1,8 +1,8 @@
-streamlit
-openai
-SpeechRecognition
-pyttsx3
-sounddevice
-wavio
-pydub
-gTTS
+streamlit #framework for developing the front end interface
+openai #to interact with the OpenAI's GPT model
+SpeechRecognition #library to transcribe audio to text
+pyttsx3 #Text-to-Speech conversion library
+sounddevice #Library to record and play audio through the microphone and speakers
+wavio #library to save .wav files
+pydub #library for converting audio formats
+gTTS #Text-to-Speech library for online speech synthesis
